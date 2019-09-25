@@ -1,0 +1,24 @@
+### Creating a local repository
+ use git init command
+ 
+ ### syncing remote with local
+ use: git remote add origin "the link to your central repository"
+ 
+ ### Pulling from the central repository
+ use: git pull origin master
+ 
+ #### git status 
+  tells you which files are added to index and are ready to commit
+  
+  #### git add
+  lets you add files to your index
+  
+ ### git commit
+ snapshots of the repository at a given time
+ can't change unless done explicitly
+ 
+ ### checking the status of files on local repo
+ use: git status
+ 
+ 
+ 
